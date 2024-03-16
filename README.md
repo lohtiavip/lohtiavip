@@ -37,3 +37,8 @@ React JS/React Native Developer
 <a href="http://www.github.com/lohtiavip"><img src="https://activity-graph.herokuapp.com/graph?username=lohtiavip&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/lohtiavip" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohtiavip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical" alt="Top Languages" /></a>
+
+## :dart: :rocket: Project Management
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
