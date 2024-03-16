@@ -19,6 +19,13 @@ React JS/React Native Developer
 * ✉️  You can contact me at [vipanlohtia800@gmail.com](mailto:vipanlohtia800@gmail.com)
 * 🧠  I'm learning node js
 
+## :mailbox_with_mail: Socials
+
+<a href="https://www.linkedin.com/in/vipan-kumar-63642616a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
 ### Skills
 
 <p align="left">
