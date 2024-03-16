@@ -4,8 +4,11 @@
 </p>
 <h2 align="center">
 React JS/React Native Developer
+  </h2>
+  <p align="center">
 --------------------
-</h2>
+  </p>
+
 
 
  Web & mobile developer with React js and React native. Serious passion for UI design and new technologies.
