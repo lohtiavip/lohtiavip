@@ -38,6 +38,11 @@ React JS/React Native Developer
 
 <a href="https://github.com/lohtiavip" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohtiavip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical" alt="Top Languages" /></a>
 
+## <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" height="20"/> Version Control System
+
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+
 ## :dart: :rocket: Project Management
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
