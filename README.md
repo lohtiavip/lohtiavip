@@ -1,8 +1,9 @@
-Hi 👋 My name is Vipan Kumar
+  <h2 align="center">Hi 👋 My name is Vipan Kumar</h2>
 ==============================
 
 React JS/React Native Developer
 --------------------
+
 
  Web & mobile developer with React js and React native. Serious passion for UI design and new technologies.
 
