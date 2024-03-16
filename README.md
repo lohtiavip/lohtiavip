@@ -21,7 +21,7 @@ React JS/React Native Developer
 
 ## :mailbox_with_mail: Socials
 
-<a target=”_blank” href="https://www.linkedin.com/in/vipan-kumar-63642616a/">
+<a  href="https://www.linkedin.com/in/vipan-kumar-63642616a/" target=”_blank”  rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
