@@ -1,8 +1,11 @@
-  <h2 align="center">Hi 👋 My name is Vipan Kumar</h2>
+  <h1 align="center">Hi 👋 My name is Vipan Kumar</h2>
+  <p align="center">
 ==============================
-
+</p>
+<h2 align="center">
 React JS/React Native Developer
 --------------------
+</h2>
 
 
  Web & mobile developer with React js and React native. Serious passion for UI design and new technologies.
