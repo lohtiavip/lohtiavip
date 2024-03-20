@@ -45,7 +45,7 @@ React JS/React Native Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/lohtiavip">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lohtiavip&theme=tokyonight&show_icons=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lohtiavip&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 
 
