@@ -3,7 +3,7 @@
 ==============================
 </p> -->
 <h2 align="center">
-React JS/React Native Developer
+React JS / Node JS / React Native Developer
   </h2>
   <p align="center">
 --------------------
