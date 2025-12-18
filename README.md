@@ -11,7 +11,7 @@ React JS / Node JS / React Native Developer
 
 
 
- Web & mobile developer with React js and React native. Serious passion for UI design and new technologies.
+ Web, Mobile & Backend developer with React Js, Node Js and React native. Serious passion for UI design and learning new technologies.
 
 <!-- 
 * 🖥️  See my portfolio at [vipanlohtia800.com](http://www.vipanlohtia800.com/) 
