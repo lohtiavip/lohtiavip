@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋 My name is Vipan Kumar</h2>
-  <p align="center">
+  <!-- <p align="center">
 ==============================
-</p>
+</p> -->
 <h2 align="center">
 React JS/React Native Developer
   </h2>
