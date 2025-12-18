@@ -2,9 +2,9 @@
   <!-- <p align="center">
 ==============================
 </p> -->
-<h2 align="center">
+<h3 align="center">
 React JS / Node JS / React Native Developer
-  </h2>
+  </h3>
   <p align="center">
 --------------------
   </p>
