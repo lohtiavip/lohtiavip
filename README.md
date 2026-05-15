@@ -17,7 +17,7 @@ React JS / Node JS / React Native Developer
 * 🖥️  See my portfolio at [vipanlohtia800.com](http://www.vipanlohtia800.com/) 
 -->
 * ✉️  You can contact me at [vipanlohtia800@gmail.com](mailto:vipanlohtia800@gmail.com)
-* 🧠  Completed MERN Course fron Udemy
+* 🧠  Completed MERN Course from Udemy
 
 ## :mailbox_with_mail: Socials
 
