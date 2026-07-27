@@ -10,6 +10,13 @@ React JS / Node JS / React Native Developer
   </p>
 
 
+  <h1 align="center">Hi 👋, I'm Vip Lohtia</h1>
+
+<h3 align="center">
+React Native Developer | Mobile App Developer | JavaScript & TypeScript Enthusiast
+</h3>
+
+
 
  Web, Mobile & Backend developer with React Js, React native and Node Js. Serious passion for UI design and learning new technologies.
 
