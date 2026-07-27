@@ -8,6 +8,20 @@ React Native Developer | Mobile App Developer | JavaScript & TypeScript Enthusia
 
 Full Stack Developer with expertise in React.js, React Native, and Node.js. Passionate about building high-quality web and mobile applications with clean, scalable code. I enjoy creating intuitive user interfaces, delivering great user experiences, and continuously learning new technologies to solve real-world problems.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=React+Native+Developer;Mobile+Application+Developer;6%2B+Years+of+Experience;Building+Cross-Platform+Apps" />
+</p>
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack Developer specializing in **React.js, React Native, and Node.js**
+- 📱 6+ years of experience in React Native development
+- 🚀 Passionate about building scalable web and mobile applications
+- 🎨 Strong interest in creating clean, intuitive, and responsive user interfaces
+- 🌱 Always learning new technologies and best development practices
+- 🎓 Completed the **MERN Stack Development** course on **Udemy**
+- ✉️ Reach me at **vipanlohtia800@gmail.com**
+
 <!-- 
 * 🖥️  See my portfolio at [vipanlohtia800.com](http://www.vipanlohtia800.com/) 
 -->
