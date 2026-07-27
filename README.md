@@ -76,3 +76,39 @@ Full Stack Developer with expertise in React.js, React Native, and Node.js. Pass
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+
+
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/vipan-kumar-63642616a" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:vipanlohtia800@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/lohtiavip">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> "Code is not just about making things work, it's about making them maintainable, scalable, and enjoyable to build."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lohtiavip&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
