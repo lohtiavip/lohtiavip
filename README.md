@@ -1,5 +1,5 @@
 
-  <h1 align="center">Hi 👋, I'm Vip Lohtia</h1>
+  <h1 align="center">Hi 👋, I'm Vipan Kumar</h1>
 
 <h3 align="center">
 React Native Developer | Mobile App Developer | JavaScript & TypeScript Enthusiast
