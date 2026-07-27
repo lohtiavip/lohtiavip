@@ -88,6 +88,8 @@ Full Stack Developer with expertise in React.js, React Native, and Node.js. Pass
 
 
 ---
+## 💻 Top Languages
+
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lohtiavip&count_private=true&include_all_commits=true&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical" alt="Top Languages" />
 </p>
