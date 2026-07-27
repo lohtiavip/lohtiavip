@@ -83,7 +83,7 @@ Full Stack Developer with expertise in React.js, React Native, and Node.js. Pass
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lohtiavip&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
