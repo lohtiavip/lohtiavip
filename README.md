@@ -23,6 +23,49 @@ Full Stack Developer with expertise in React.js, React Native, and Node.js. Pass
 - ✉️ Reach me at **vipanlohtia800@gmail.com**
 
 
+---
+
+## 🚀 Tech Stack
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://skillicons.dev/icons?i=apple" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
 ## :mailbox_with_mail: Socials
 
 <a  href="https://www.linkedin.com/in/vipan-kumar-63642616a/" target=”_blank”  rel="noopener noreferrer">
