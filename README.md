@@ -1,14 +1,3 @@
-  <h1 align="center">Hi 👋 My name is Vipan Kumar</h2>
-  <!-- <p align="center">
-==============================
-</p> -->
-<h3 align="center">
-React JS / Node JS / React Native Developer
-  </h3>
-  <p align="center">
---------------------
-  </p>
-
 
   <h1 align="center">Hi 👋, I'm Vip Lohtia</h1>
 
