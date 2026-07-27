@@ -6,8 +6,7 @@ React Native Developer | Mobile App Developer | JavaScript & TypeScript Enthusia
 </h3>
 
 
-
- Web, Mobile & Backend developer with React Js, React native and Node Js. Serious passion for UI design and learning new technologies.
+Full Stack Developer with expertise in React.js, React Native, and Node.js. Passionate about building high-quality web and mobile applications with clean, scalable code. I enjoy creating intuitive user interfaces, delivering great user experiences, and continuously learning new technologies to solve real-world problems.
 
 <!-- 
 * 🖥️  See my portfolio at [vipanlohtia800.com](http://www.vipanlohtia800.com/) 
