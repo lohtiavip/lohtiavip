@@ -79,13 +79,25 @@ Full Stack Developer with expertise in React.js, React Native, and Node.js. Pass
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lohtiavip&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://streak-stats.demolab.com?user=lohtiavip&theme=tokyonight&hide_border=true" />
 
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohtiavip&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 
 ## 🌐 Connect With Me
