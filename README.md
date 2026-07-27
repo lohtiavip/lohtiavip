@@ -56,7 +56,7 @@ React JS / Node JS / React Native Developer
 
 <a href="http://www.github.com/lohtiavip"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lohtiavip&custom_title=lohtiavip%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=6&point=FFFFFF&color=FFFFFF" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/lohtiavip" align="left"><img src="https://github-readme-stats-seven-alpha-21.vercel.app/api/top-langs/?username=lohtiavip&count_private=true&include_all_commits=true&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical" alt="Top Languages" /></a>
+<a href="https://github.com/lohtiavip" align="left"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lohtiavip&count_private=true&include_all_commits=true&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical" alt="Top Languages" /></a>
 
 ## :computer: Skills - OS
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
