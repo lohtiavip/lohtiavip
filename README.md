@@ -22,11 +22,6 @@ Full Stack Developer with expertise in React.js, React Native, and Node.js. Pass
 - 🎓 Completed the **MERN Stack Development** course on **Udemy**
 - ✉️ Reach me at **vipanlohtia800@gmail.com**
 
-<!-- 
-* 🖥️  See my portfolio at [vipanlohtia800.com](http://www.vipanlohtia800.com/) 
--->
-* ✉️  You can contact me at [vipanlohtia800@gmail.com](mailto:vipanlohtia800@gmail.com)
-* 🧠  Completed MERN Course from Udemy
 
 ## :mailbox_with_mail: Socials
 
